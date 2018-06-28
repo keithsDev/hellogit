@@ -20,3 +20,5 @@ public class TestMain {
 hello from remote repo
 
 monday
+
+tuesday added by local repo
