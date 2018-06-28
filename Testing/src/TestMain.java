@@ -22,3 +22,4 @@ hello from remote repo
 monday
 
 tuesday added by local repo
+wednesday added by remote repo
