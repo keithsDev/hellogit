@@ -23,3 +23,4 @@ monday
 
 tuesday added by local repo
 wednesday added by remote repo
+thursday added by remote
