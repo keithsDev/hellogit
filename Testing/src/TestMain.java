@@ -26,3 +26,5 @@ wednesday added by remote repo
 thursday added by remote
 modified in dev branch.
 ok
+
+a message taken from stash
